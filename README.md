@@ -1,6 +1,6 @@
 # Analyzing-Traffic-Stops-in-Rhode-Island-A-Data-Driven-Look-into-Police-Interactions
 
-**Year:** 2025  
+**Year:** 2024
 **Type:** Data Analysis / Public Policy Project  
 **Dataset Source:** Stanford Open Policing Project  
 **Notebook:** RHODE_ISLAND_1.ipynb
