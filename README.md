@@ -1,0 +1,2 @@
+# Analyzing-Traffic-Stops-in-Rhode-Island-A-Data-Driven-Look-into-Police-Interactions
+This project analyzes Rhode Island traffic stop data from the Stanford Open Policing Project to explore law enforcement patterns. It examines stop frequency, gender disparities, search and frisk rates, and time-based trends, offering insights into public safety practices and potential biases in police interactions.
